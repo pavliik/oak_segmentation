@@ -1,0 +1,9 @@
+depthai==2.24.0.0
+numpy==1.26.3
+opencv-python==4.9.0.80
+torch==2.1.2
+torchvision==0.16.2
+tensorboard==2.15.1
+packaging==23.2
+onnx==1.15.0
+onnxsim==0.4.35
